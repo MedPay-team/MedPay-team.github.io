@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.medpay.medway",
+    "sha256_cert_fingerprints":
+    ["7E:F5:2B:10:47:6A:C1:E8:E5:73:58:5F:53:F4:67:2E:1C:74:D4:1B:ED:BF:E2:93:28:CD:3D:E2:3B:18:24:7F"]
+  }
+}]
